@@ -1,2 +1,2 @@
 # cpp
-Source for various C++ exercises
+Source code for various C++ exercises
